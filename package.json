@@ -1,0 +1,8 @@
+{
+    "name": "projet"
+version: "1.5npm",
+"scripts": {
+    "start": "live-server"
+}
+
+}
